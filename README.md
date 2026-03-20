@@ -24,7 +24,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name        = "Your Name"
+        self.name        = "Prince Jaiswal"
         self.degree      = "B.Tech CSE — 2025 Passout 🎓"
         self.currently   = ["Learning FastAPI", "Exploring AI/ML", "Building Projects"]
         self.goal        = "Become a Full-Stack AI Backend Developer 🚀"
