@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝
 ```
 
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Prince Jaiswal 👋
 
 ### 🎓 B.Tech CSE 2025 | 🐍 Backend Dev in Progress | 🤖 ML & AI Explorer
 
